@@ -3,7 +3,7 @@
 
 ![Новий Точковий рисунок](https://github.com/athe-cpu/Project-Ellen/assets/83352578/6023219a-d57b-4559-9c6b-5a9dd66a03e8)
 
-![image](https://github.com/athe-cpu/Project-Ellen/assets/83352578/b2793010-63a8-4eab-8706-a4dbd959a311)
+![вп](https://github.com/athe-cpu/Project-Ellen/assets/83352578/2fd9d91f-d1e6-4d48-aec0-a9f728d8cd8f)
 
 
 # Objective
