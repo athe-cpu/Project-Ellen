@@ -1,7 +1,7 @@
 # Project-Ellen
 ![Новий Точковий рисунок](https://github.com/athe-cpu/Project-Ellen/assets/83352578/c7b9fd8c-8284-4836-945c-a23e4e010a14)
 
-![image](https://github.com/athe-cpu/Project-Ellen/assets/83352578/9e6ad506-3a61-435b-ac99-f77ff0f46a90)
+![Новий Точковий рисунок](https://github.com/athe-cpu/Project-Ellen/assets/83352578/6023219a-d57b-4559-9c6b-5a9dd66a03e8)
 
 ![image](https://github.com/athe-cpu/Project-Ellen/assets/83352578/b2793010-63a8-4eab-8706-a4dbd959a311)
 
